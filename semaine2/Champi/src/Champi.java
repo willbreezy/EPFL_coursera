@@ -13,7 +13,7 @@ public class Champi {
         boolean anneau = clavier.nextBoolean();
 
         if (anneau) {
-            System.out.print("Est-ce que votre champignon vit en foret (true : oui, false : non) ? ");
+            System.out.print("Est-ce que votre champignon vit en forêt (true : oui, false : non) ? ");
             boolean foret = clavier.nextBoolean();
 
             if (foret) {
